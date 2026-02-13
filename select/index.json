@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sweetie",
+  "base_artist": "ME:I",
+  "createdAt": "2026-02-13T12:16:43.105557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweetie",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/01_Sweetie_Le_Tigre.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweetie (BBC Evening Session)",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/02_Sweetie_(BBC_Evening_Session)_Le_Tigre.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freaky Sweetie",
+      "artist": "Cassette Kids",
+      "has_synced": true,
+      "path": "select/03_Freaky_Sweetie_Cassette_Kids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweetie Little Jean",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/04_Sweetie_Little_Jean_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clint Eastwood (Ed Case & Sweetie Irie refix)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/05_Clint_Eastwood_(Ed_Case_&_Sweetie_Irie_refix)_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweetie",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/06_Sweetie_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweetie",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/07_Sweetie_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rise Up (Feat Sweetie Irie)",
+      "artist": "Roni Size",
+      "has_synced": false,
+      "path": "select/08_Rise_Up_(Feat_Sweetie_Irie)_Roni_Size.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Clint Eastwood (Ed Case\u0000Sweetie Irie Refix) [Edit]",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/09_Clint_Eastwood_(Ed_Case\u0000Sweetie_Irie_Refix)_[Edit]_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The World Is Mine (Paul Oakenfold's downtempo mix with Sweetie Rap)",
+      "artist": "David Guetta & JD Davis",
+      "has_synced": false,
+      "path": "select/10_The_World_Is_Mine_(Paul_Oakenfold's_downtempo_mix_with_Sweetie_Rap)_David_Guetta_&_JD_Davis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World Is Mine (Paul Oakenfolds Downtempo Mix with Sweetie Rap)",
+      "artist": "David Guetta feat. JD Davis",
+      "has_synced": false,
+      "path": "select/11_The_World_Is_Mine_(Paul_Oakenfolds_Downtempo_Mix_with_Sweetie_Rap)_David_Guetta_feat._JD_Davis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Gonna Meet My Sweetie Now",
+      "artist": "Peggy Lee",
+      "has_synced": true,
+      "path": "select/12_I'm_Gonna_Meet_My_Sweetie_Now_Peggy_Lee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Gonna Meet My Sweetie Now",
+      "artist": "Peggy Lee",
+      "has_synced": false,
+      "path": "select/13_I'm_Gonna_Meet_My_Sweetie_Now_Peggy_Lee.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lovely Icecream Princess Sweetie",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/14_Lovely_Icecream_Princess_Sweetie_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Clint Eastwood - Ed Case / Sweetie Irie Refix",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/15_Clint_Eastwood_-_Ed_Case___Sweetie_Irie_Refix_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Clint Eastwood (Ed Case / Sweetie Irie Refix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/16_Clint_Eastwood_(Ed_Case___Sweetie_Irie_Refix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweetie Pie",
+      "artist": "Dionne Warwick",
+      "has_synced": true,
+      "path": "select/17_Sweetie_Pie_Dionne_Warwick.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sweetie Pie",
+      "artist": "Eddie Cochran",
+      "has_synced": true,
+      "path": "select/18_Sweetie_Pie_Eddie_Cochran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweetie",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/pl_01_Sweetie_ME_I.txt"
+    }
+  ]
+}
